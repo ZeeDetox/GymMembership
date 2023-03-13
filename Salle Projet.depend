@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1672436533 source:c:\users\ganda\desktop\projects\salle projet\main.c
+	<stdio.h>
+	<string.h>
+	"Structures.h"
+	"Commands.h"
+
+1672436836 c:\users\ganda\desktop\projects\salle projet\structures.h
+
+1672515912 c:\users\ganda\desktop\projects\salle projet\fonctions.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"Structures.h"
+
+1672516004 c:\users\ganda\desktop\projects\salle projet\commands.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"Structures.h"
+	"Fonctions.h"
+
